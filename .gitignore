@@ -1,0 +1,16 @@
+# Senhas e Dados de Clientes
+credenciais.txt
+Dados.xlsx
+
+# Arquivos Executáveis e Compilados (PyInstaller)
+build/
+dist/
+*.spec
+*.exe
+
+# Configurações do Editor
+.vscode/
+
+# Cache do Python
+__pycache__/
+*.pyc
